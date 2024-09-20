@@ -18,41 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Repos\\Classes-Exercise\\Classes\\Car.cs",
-              "RelativeDocumentMoniker": "Classes\\Car.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Repos\\Classes-Exercise\\Classes\\Car.cs",
-              "RelativeToolTip": "Classes\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T05:19:42.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Repos\\Classes-Exercise\\Classes\\Program.cs",
-              "RelativeDocumentMoniker": "Classes\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Repos\\Classes-Exercise\\Classes\\Program.cs*",
-              "RelativeToolTip": "Classes\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T05:19:37.342Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -69,6 +39,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Repos\\Classes-Exercise\\Classes\\Car.cs",
+              "RelativeDocumentMoniker": "Classes\\Car.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Repos\\Classes-Exercise\\Classes\\Car.cs",
+              "RelativeToolTip": "Classes\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:19:42.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Repos\\Classes-Exercise\\Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Repos\\Classes-Exercise\\Classes\\Program.cs",
+              "RelativeToolTip": "Classes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T05:19:37.342Z",
+              "EditorCaption": ""
             }
           ]
         }
